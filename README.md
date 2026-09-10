@@ -7,7 +7,7 @@
 
 [![Live Demo](https://img.shields.io/badge/Live_Demo-00d4aa?style=flat-square&logo=netlify&logoColor=fff)](https://lendercheck.netlify.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=fff)](https://github.com/KA-1205/LenderCheck)
-[![RBI Hackathon 2026](https://img.shields.io/badge/RBI_Hackathon-2026-orange?style=flat-square)](https://github.com/KA-1205/LenderCheck)
+[![Build $ Bank 2026](https://img.shields.io/badge/Build_%24_Bank-2026-orange?style=flat-square)](https://github.com/KA-1205/LenderCheck)
 
 A Telegram bot that cross-references RBI's official Digital Lending Apps directory, analyzes APK permissions, and detects fraud patterns — delivering a clear, evidence-based verdict in the same chat where the suspicious link arrived.
 

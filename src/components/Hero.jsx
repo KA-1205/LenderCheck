@@ -16,7 +16,7 @@ export default function Hero() {
     <section className="hero" ref={revealRef}>
       <div className="container hero-content">
         <div className="hero-text">
-          <div className="hero-badge reveal-item">RBI Hackathon 2026</div>
+          <div className="hero-badge reveal-item">Build $ Bank 2026</div>
           <h1 className="hero-title reveal-item" style={{ transitionDelay: '0.1s' }}>
             Verify any loan app in 10 seconds,<br/>
             <span className="gradient-text">before it verifies you.</span>

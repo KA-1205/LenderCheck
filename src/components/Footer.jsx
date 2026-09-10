@@ -35,7 +35,7 @@ export default function Footer() {
         </div>
         <div className="footer-bottom reveal-item" style={{ transitionDelay: '0.3s' }}>
           <Shield size={16} color="var(--primary)" />
-          LenderCheck • RBI Hackathon 2026
+          LenderCheck • Build $ Bank 2026
         </div>
       </div>
     </footer>
